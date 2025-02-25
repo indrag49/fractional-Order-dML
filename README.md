@@ -5,5 +5,5 @@ Consists of two different notebooks for the frontend and the backend.
 
 © 2025 [Indranil Ghosh](https://indrag49.github.io/). All rights reserved.
 
-This app is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
       
