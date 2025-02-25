@@ -2,8 +2,4 @@ This is a code repository accompanying our paper "*Fractional order induced bifu
 The backend is all done in Julia using the **[FdeSolver.jl](https://github.com/JuliaTurkuDataScience/FdeSolver.jl)** package for simulating Caputo-type denatured Morris-Lecar neurons
 The frontend plotting is done in Python.
 Consists of two different notebooks for the front end and the back end.
-
-© 2025 [Indranil Ghosh](https://indrag49.github.io/). All rights reserved.
-
-This code is licensed under the [MIT License](https://opensource.org/licenses/MIT).
       
